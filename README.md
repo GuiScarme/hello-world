@@ -1,2 +1,2 @@
 # hello-world
-New to computer porgramming
+New to computer programming
